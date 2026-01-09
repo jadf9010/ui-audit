@@ -1,0 +1,27 @@
+# Unity meta files are needed for the package to work
+# Do NOT ignore .meta files
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+.idea/
+.vs/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# Build artifacts
+[Bb]uild/
+[Bb]in/
+[Oo]bj/

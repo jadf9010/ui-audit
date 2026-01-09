@@ -1,0 +1,30 @@
+{
+  "name": "com.coachcraft.ui-audit",
+  "version": "1.0.0",
+  "displayName": "UI Asset Audit",
+  "description": "Editor tools for auditing UI sprite/texture quality, detecting blurry (undersized) and heavy (oversized) assets based on actual display usage in UGUI prefabs.",
+  "unity": "2021.3",
+  "unityRelease": "0f1",
+  "documentationUrl": "https://github.com/coachcraft/ui-audit#readme",
+  "changelogUrl": "https://github.com/coachcraft/ui-audit/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/coachcraft/ui-audit/blob/main/LICENSE",
+  "keywords": [
+    "ui",
+    "audit",
+    "sprite",
+    "texture",
+    "optimization",
+    "quality",
+    "editor"
+  ],
+  "author": {
+    "name": "CoachCraft",
+    "url": "https://github.com/coachcraft"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coachcraft/ui-audit.git"
+  },
+  "license": "MIT",
+  "samples": []
+}
